@@ -1,2 +1,2 @@
-# Whoismind
-Maltego Local Transform to use Whoismind - http://www.whoismind.com/
+# [Whoismind] Maltego Local Transforms
+Maltego Local Transforms to use Whoismind - http://www.whoismind.com/
