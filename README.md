@@ -1,4 +1,4 @@
-# [ReverseWhois-Maltego] Maltego Local Transforms
+# [Reverse Whois] Maltego Local Transforms
 Maltego Local Transforms to use the following services.
 - DomainEye - https://domaineye.com/
 - PrePostSEO - https://www.prepostseo.com/reverse-whois-checker
