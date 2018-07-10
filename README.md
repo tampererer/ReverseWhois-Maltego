@@ -1,5 +1,8 @@
-# [Whoismind] Maltego Local Transforms
-Maltego Local Transforms to use Whoismind - http://www.whoismind.com/
+# [ReverseWhois-Maltego] Maltego Local Transforms
+Maltego Local Transforms to use the following services.
+- DomainEye - https://domaineye.com/
+- PrePostSEO - https://www.prepostseo.com/reverse-whois-checker
+- Viewdns - https://viewdns.info/
 
 # Prerequisites
 - Python 2.7.x + requests, re module
@@ -12,4 +15,6 @@ Maltego Local Transforms to use Whoismind - http://www.whoismind.com/
   Working directory = C:\Maltego\Transforms\Whoismind
 
 # Transforms
-- email_to_domain.py
+- [DomainEye] email_to_domain.py
+- [PrePostSEO] email_to_domain.py
+- [Viewdns] email_to_domain.py
