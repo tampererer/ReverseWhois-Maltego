@@ -8,6 +8,10 @@ Maltego Local Transforms to use the following services.
 - Python 2.7.x + requests, re module
 - Python 3.6.x will probably work.
 
+# 必要なもの
+- Python 2.7.x + requests, re モジュール
+- Python 3.6.x でもたぶん動作します。
+
 # Setup
 - Put domaineye.py, prepostseo.py, viewdns.py and MaltegoTransform.py into your working directory. (e.g. C:\Maltego\Transforms\Whoismind)
 - Open Whoismind.mtz to import Maltego configuration.
