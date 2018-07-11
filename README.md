@@ -6,6 +6,7 @@ Maltego Local Transforms to use the following services.
 
 # Prerequisites
 - Python 2.7.x + requests, re module
+- Python 3.6.x will probably work.
 
 # Setup
 - Put domaineye.py, prepostseo.py, viewdns.py and MaltegoTransform.py into your working directory. (e.g. C:\Maltego\Transforms\Whoismind)
