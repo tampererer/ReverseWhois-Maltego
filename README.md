@@ -13,7 +13,7 @@ Maltego Local Transforms to use the following services.
 - Python 3.6.x でもたぶん動作します。
 
 # Setup
-- Put domaineye.py, prepostseo.py, viewdns.py and MaltegoTransform.py into your working directory. (e.g. C:\Maltego\Transforms\ReverseWhois)
+- Put all python files into your working directory. (e.g. C:\Maltego\Transforms\ReverseWhois)
 - Open Whoismind.mtz to import Maltego configuration.
 - The current configuration uses the following directories, so you may have to change them according to your environment. (Maltego -> Transforms -> Transform Manager)  
 
